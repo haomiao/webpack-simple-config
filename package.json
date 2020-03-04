@@ -8,7 +8,7 @@
     "build": "webpack --config webpack.prod.js",
     "watch": "webpack --watch",
     "start": "webpack-dev-server --open --config webpack.dev.js",
-	"release": "webpack --config webpack.release.js",
+    "release": "webpack --config webpack.release.js",
     "server": "node server.js"
   },
   "keywords": [],
